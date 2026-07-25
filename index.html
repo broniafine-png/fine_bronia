@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Bronia Fine Art — Online Gallery</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero portrait-first">
+    <div class="portrait-first-inner">
+      <figure class="artist-portrait artist-portrait-main">
+        <img src="images/bronia_artist.jpg" alt="Bronia Fine painting at her easel">
+        <figcaption>Bronia Fine in her studio</figcaption>
+      </figure>
+      <div class="portrait-intro">
+        <p class="eyebrow">BRONIA FINE ART</p>
+        <h1>Bronia Fine</h1>
+        <p class="artist-role">Oil Paintings &amp; Watercolors</p>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section id="collections" class="landing">
+      <div class="landing-heading">
+        <p class="eyebrow dark">COLLECTIONS</p>
+        <h2>Choose a Gallery</h2>
+        <p class="collection-instruction">Select the type of painting you would like to view.</p>
+      </div>
+      <div class="collection-grid">
+        <a class="collection-card" href="oil.html">
+          <img src="images/oil/o001_BroniaFine_poppies.jpg" alt="Oil paintings">
+          <div class="collection-copy"><h3>Oil Paintings</h3><p>255 works in oil on canvas</p></div>
+        </a>
+        <a class="collection-card" href="watercolors.html">
+          <img src="images/watercolor/w003_BroniaFine_Hawaiian_Sunset.jpg" alt="Watercolors">
+          <div class="collection-copy"><h3>Watercolors</h3><p>24 watercolor works</p></div>
+        </a>
+      </div>
+    </section>
+
+    <section id="about" class="about">
+      <div class="about-inner about-text-only">
+        <div>
+          <p class="eyebrow dark">ABOUT THE ARTIST</p>
+          <h2>Bronia Fine</h2>
+          <p>I was born in the city of Samara, Russia, and immigrated to Israel more than fifty years ago. For many years, my life revolved around family and work: I served as an officer in the Israel Police for twenty-five years while working and raising my children. Yet my love of painting, which had been with me since childhood, gradually became the central pursuit of my life.
+I studied with renowned artists whose skill, knowledge, and creative experience played an important role in my development as an artist.
+We have lived in Jerusalem for more than fifty years. This remarkable city, with its distinctive light, rich history, and unique atmosphere, has become one of my greatest sources of inspiration.
+My favorite subjects include landscapes, still lifes, views of nature seen through a window, and women from different countries and cultures. Many of my works were inspired by our numerous travels, which revealed new colors, images, and the distinctive character of places around the world.
+I would like my paintings to bring viewers joy and warmth, and to encourage them to pause for a moment and appreciate the beauty of the world around us.
+</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>© <span class="year"></span> Bronia Fine. All rights reserved.</footer>
+  <script>document.querySelectorAll('.year').forEach(el=>el.textContent=new Date().getFullYear());</script>
+</body>
+</html>
