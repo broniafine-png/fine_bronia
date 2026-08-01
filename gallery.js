@@ -7,6 +7,9 @@ const search = document.getElementById('search');
 const empty = document.getElementById('emptyState');
 const viewer = document.getElementById('viewer');
 const imageFolder = document.body.dataset.imageFolder || 'images';
+const thumbFolder = document.body.dataset.thumbFolder || imageFolder;
+const collectionCount = document.getElementById('collectionCount');
+if (collectionCount) collectionCount.textContent = allPaintings.length;
 
 function escapeHtml(value='') {
   return String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
@@ -17,10 +20,13 @@ function detail(label, value) {
 function imageUrl(file) {
   return `${imageFolder}/${encodeURIComponent(file)}`;
 }
+function thumbUrl(file) {
+  return `${thumbFolder}/${encodeURIComponent(file)}`;
+}
 function render() {
   grid.innerHTML = visible.map((p, i) => `
     <article class="card" data-index="${i}" tabindex="0">
-      <div class="thumb"><img loading="lazy" src="${imageUrl(p.file)}" alt="${escapeHtml(p.title)}"></div>
+      <div class="thumb"><img loading="lazy" decoding="async" fetchpriority="low" src="${thumbUrl(p.file)}" data-full="${imageUrl(p.file)}" alt="${escapeHtml(p.title)}"></div>
       <div class="card-body">
         <h3>${escapeHtml(p.title || 'Untitled')}</h3>
         ${p.size ? `<div class="card-size">${escapeHtml(p.size)}</div>` : ''}

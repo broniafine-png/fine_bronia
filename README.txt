@@ -1,9 +1,9 @@
-Bronia Fine Combined Online Gallery
+Bronia Fine Art — готовый проект сайта
 
-Open index.html to start.
-The first page links to two separate collections:
-- Oil Paintings (oil.html)
-- Watercolors (watercolors.html)
+Главная страница: index.html
+Масло: oil.html
+Акварель: watercolors.html
+Данные картин: paintings.xlsx
 
-paintings.xlsx contains two sheets with the collection data.
-To publish online, upload the entire folder contents to a static web host such as GitHub Pages, Netlify, or your hosting provider.
+После изменения paintings.xlsx запустите UPDATE_GALLERY.bat.
+Подробная инструкция находится в файле ИНСТРУКЦИЯ_ОБНОВЛЕНИЯ.txt.

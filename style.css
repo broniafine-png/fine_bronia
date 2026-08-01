@@ -21,3 +21,6 @@ dialog{width:96vw;height:96vh;padding:0;border:0;background:#111;box-shadow:0 20
 .collection-instruction{margin:10px auto 0;max-width:620px;font:16px/1.6 Arial,sans-serif;color:var(--muted)}
 .about-inner.about-text-only{display:block;max-width:780px;text-align:center}
 @media(max-width:560px){.hero.portrait-first{padding:28px 0 30px}.artist-portrait-main{margin-bottom:24px}.artist-portrait-main img{max-height:65vh}}
+
+/* Faster gallery rendering */
+.card{content-visibility:auto;contain-intrinsic-size:700px 520px}.thumb{min-height:220px}.thumb img{background:#ebe5da}
