@@ -2,7 +2,7 @@ window.GALLERY_DATA = [
     {
         "no":  1,
         "file":  "o001_BroniaFine_poppies.jpg",
-        "title":  "Poppies",
+        "title":  "0001 — Poppies",
         "year":  "",
         "size":  "50 × 30 cm",
         "medium":  "Oil on canvas",
@@ -13,7 +13,7 @@ window.GALLERY_DATA = [
     {
         "no":  2,
         "file":  "o002_BroniaFine_naturmort.jpg",
-        "title":  "Still Life",
+        "title":  "0002 — Still Life",
         "year":  "",
         "size":  "50 × 40 cm",
         "medium":  "Oil on canvas",
@@ -24,7 +24,7 @@ window.GALLERY_DATA = [
     {
         "no":  3,
         "file":  "o003_BroniaFine_lilac.jpg",
-        "title":  "Lilac",
+        "title":  "0003 — Lilac",
         "year":  "",
         "size":  "40 × 50 cm",
         "medium":  "Oil on canvas",
@@ -35,7 +35,7 @@ window.GALLERY_DATA = [
     {
         "no":  4,
         "file":  "o004_BroniaFine_autumn_leaves.jpg",
-        "title":  "Autumn Leaves",
+        "title":  "0004 — Autumn Leaves",
         "year":  "",
         "size":  "70 × 40 cm",
         "medium":  "Oil on canvas",
@@ -46,7 +46,7 @@ window.GALLERY_DATA = [
     {
         "no":  5,
         "file":  "o005_BroniaFine_autumn_in_Romania.jpg",
-        "title":  "Autumn In Romania",
+        "title":  "0005 — Autumn In Romania",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -57,7 +57,7 @@ window.GALLERY_DATA = [
     {
         "no":  6,
         "file":  "o006_BroniaFine_autumn_in_Romania.jpg",
-        "title":  "Autumn In Romania",
+        "title":  "0006 — Autumn In Romania",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -68,7 +68,7 @@ window.GALLERY_DATA = [
     {
         "no":  7,
         "file":  "o007_BroniaFine_roses.jpg",
-        "title":  "Roses",
+        "title":  "0007 — Roses",
         "year":  "",
         "size":  "30 × 45 cm",
         "medium":  "Oil on canvas",
@@ -79,7 +79,7 @@ window.GALLERY_DATA = [
     {
         "no":  8,
         "file":  "o008_BroniaFine_lily_of_the_valleys.jpg",
-        "title":  "Lily Of The Valleys",
+        "title":  "0008 — Lily Of The Valleys",
         "year":  "",
         "size":  "30 × 45 cm",
         "medium":  "Oil on canvas",
@@ -90,7 +90,7 @@ window.GALLERY_DATA = [
     {
         "no":  9,
         "file":  "o009_BroniaFine_field_of_flowers.jpg",
-        "title":  "Field Of Flowers",
+        "title":  "0009 — Field Of Flowers",
         "year":  "",
         "size":  "40 × 70 cm",
         "medium":  "Oil on canvas",
@@ -101,7 +101,7 @@ window.GALLERY_DATA = [
     {
         "no":  10,
         "file":  "o010_BroniaFine_white_rose.jpg",
-        "title":  "White Rose",
+        "title":  "0010 — White Rose",
         "year":  "",
         "size":  "35 × 45 cm",
         "medium":  "Oil on canvas",
@@ -112,7 +112,7 @@ window.GALLERY_DATA = [
     {
         "no":  11,
         "file":  "o011_BroniaFine_roses.jpg",
-        "title":  "Roses",
+        "title":  "0011 — Roses",
         "year":  "",
         "size":  "35 × 45 cm",
         "medium":  "Oil on canvas",
@@ -123,7 +123,7 @@ window.GALLERY_DATA = [
     {
         "no":  12,
         "file":  "o012_BroniaFine_Safed.jpg",
-        "title":  "Safed",
+        "title":  "0012 — Safed",
         "year":  "",
         "size":  "35× 70 cm",
         "medium":  "Oil on canvas",
@@ -134,7 +134,7 @@ window.GALLERY_DATA = [
     {
         "no":  13,
         "file":  "o013_BroniaFine_Jerusalem_A.jpg",
-        "title":  "Jerusalem A",
+        "title":  "0013 — Jerusalem A",
         "year":  "",
         "size":  "35 × 70 cm",
         "medium":  "Oil on canvas",
@@ -145,7 +145,7 @@ window.GALLERY_DATA = [
     {
         "no":  14,
         "file":  "o014_BroniaFine_Jerusalem_B.jpg",
-        "title":  "Jerusalem B",
+        "title":  "0014 — Jerusalem B",
         "year":  "",
         "size":  "40 × 50 cm",
         "medium":  "Oil on canvas",
@@ -156,7 +156,7 @@ window.GALLERY_DATA = [
     {
         "no":  15,
         "file":  "o015_BroniaFine_Jerusalem_C.jpg",
-        "title":  "Jerusalem C",
+        "title":  "0015 — Jerusalem C",
         "year":  "",
         "size":  "40 × 50 cm",
         "medium":  "Oil on canvas",
@@ -167,7 +167,7 @@ window.GALLERY_DATA = [
     {
         "no":  16,
         "file":  "o016_BroniaFine_red_rose.jpg",
-        "title":  "Red Rose",
+        "title":  "0016 — Red Rose",
         "year":  "",
         "size":  "35 × 45 cm",
         "medium":  "Oil on canvas",
@@ -178,7 +178,7 @@ window.GALLERY_DATA = [
     {
         "no":  17,
         "file":  "o017_BroniaFine_Still_LIFE.jpg",
-        "title":  "Still Life",
+        "title":  "0017 — Still Life",
         "year":  "",
         "size":  "70 × 50 cm",
         "medium":  "Oil on canvas",
@@ -189,7 +189,7 @@ window.GALLERY_DATA = [
     {
         "no":  18,
         "file":  "o018_BroniaFine_Japan_lake.jpg",
-        "title":  "Japan Lake",
+        "title":  "0018 — Japan Lake",
         "year":  "",
         "size":  "45 × 35 cm",
         "medium":  "Oil on canvas",
@@ -200,7 +200,7 @@ window.GALLERY_DATA = [
     {
         "no":  19,
         "file":  "o019_BroniaFine_Sakura.jpg",
-        "title":  "Sakura",
+        "title":  "0019 — Sakura",
         "year":  "",
         "size":  "45 × 35 cm",
         "medium":  "Oil on canvas",
@@ -211,7 +211,7 @@ window.GALLERY_DATA = [
     {
         "no":  20,
         "file":  "o020_BroniaFine_Sunrise.jpg",
-        "title":  "Sunrise",
+        "title":  "0020 — Sunrise",
         "year":  "",
         "size":  "70 ×50 cm",
         "medium":  "Oil on canvas",
@@ -222,7 +222,7 @@ window.GALLERY_DATA = [
     {
         "no":  21,
         "file":  "o021_BroniaFine_autumn_leaves.jpg",
-        "title":  "Autumn Leaves",
+        "title":  "0021 — Autumn Leaves",
         "year":  "",
         "size":  "70 × 50 cm",
         "medium":  "Oil on canvas",
@@ -233,7 +233,7 @@ window.GALLERY_DATA = [
     {
         "no":  22,
         "file":  "o022_BroniaFine_naturmort.jpg",
-        "title":  "Still Life",
+        "title":  "0022 — Still Life",
         "year":  "",
         "size":  "50 × 40 cm",
         "medium":  "Oil on canvas",
@@ -244,7 +244,7 @@ window.GALLERY_DATA = [
     {
         "no":  23,
         "file":  "o023_BroniaFine_flowers.jpg",
-        "title":  "Flowers",
+        "title":  "0023 — Flowers",
         "year":  "",
         "size":  "70 × 50 cm",
         "medium":  "Oil on canvas",
@@ -255,7 +255,7 @@ window.GALLERY_DATA = [
     {
         "no":  24,
         "file":  "o024_BroniaFine_Georgia_Shatili.jpg",
-        "title":  "Georgia Shatili",
+        "title":  "0024 — Georgia Shatili",
         "year":  "",
         "size":  "40 × 50 cm",
         "medium":  "Oil on canvas",
@@ -266,7 +266,7 @@ window.GALLERY_DATA = [
     {
         "no":  25,
         "file":  "o025_BroniaFine_Lifta-Jerusalem.jpg",
-        "title":  "Lifta Jerusalem",
+        "title":  "0025 — Lifta Jerusalem",
         "year":  "",
         "size":  "40 × 50 cm",
         "medium":  "Oil on canvas",
@@ -277,7 +277,7 @@ window.GALLERY_DATA = [
     {
         "no":  26,
         "file":  "o026_BroniaFine_Cafe_Focaccia-Jerusalem.jpg",
-        "title":  "Cafe Focaccia Jerusalem",
+        "title":  "0026 — Cafe Focaccia Jerusalem",
         "year":  "",
         "size":  "40 × 50 cm",
         "medium":  "Oil on canvas",
@@ -288,7 +288,7 @@ window.GALLERY_DATA = [
     {
         "no":  27,
         "file":  "o027_BroniaFine_Montefiori_Jerusalem.jpg",
-        "title":  "Montefiori Jerusalem",
+        "title":  "0027 — Montefiori Jerusalem",
         "year":  "",
         "size":  "40 × 50 cm",
         "medium":  "Oil on canvas",
@@ -299,7 +299,7 @@ window.GALLERY_DATA = [
     {
         "no":  28,
         "file":  "o028_BroniaFine_basket_with_mushrooms.jpg",
-        "title":  "Basket With Mushrooms",
+        "title":  "0028 — Basket With Mushrooms",
         "year":  "",
         "size":  "40 × 50 cm",
         "medium":  "Oil on canvas",
@@ -310,7 +310,7 @@ window.GALLERY_DATA = [
     {
         "no":  29,
         "file":  "o029_BroniaFine_Tower_of_David.jpg",
-        "title":  "Tower Of David",
+        "title":  "0029 — Tower Of David",
         "year":  "",
         "size":  "50 × 40 cm",
         "medium":  "Oil on canvas",
@@ -321,7 +321,7 @@ window.GALLERY_DATA = [
     {
         "no":  30,
         "file":  "o030_BroniaFine_Spring_Shades.jpg",
-        "title":  "Spring Shades",
+        "title":  "0030 — Spring Shades",
         "year":  "",
         "size":  "70 × 50 cm",
         "medium":  "Oil on canvas",
@@ -332,7 +332,7 @@ window.GALLERY_DATA = [
     {
         "no":  31,
         "file":  "o031_BroniaFine_winter_in_Slovakia.jpg",
-        "title":  "Winter In Slovakia",
+        "title":  "0031 — Winter In Slovakia",
         "year":  "",
         "size":  "50 × 35 cm",
         "medium":  "Oil on canvas",
@@ -343,7 +343,7 @@ window.GALLERY_DATA = [
     {
         "no":  32,
         "file":  "o035_BroniaFine_Magic_Garden.jpg",
-        "title":  "Magic Garden",
+        "title":  "0032 — Magic Garden",
         "year":  "",
         "size":  "50 × 40 cm",
         "medium":  "Oil on canvas",
@@ -354,7 +354,7 @@ window.GALLERY_DATA = [
     {
         "no":  33,
         "file":  "o036_BroniaFine_flowers.jpg",
-        "title":  "Flowers",
+        "title":  "0033 — Flowers",
         "year":  "",
         "size":  "50 × 40 cm",
         "medium":  "Oil on canvas",
@@ -365,7 +365,7 @@ window.GALLERY_DATA = [
     {
         "no":  34,
         "file":  "o037_BroniaFine_Raspberry_still_life.jpg",
-        "title":  "Raspberry Still Life",
+        "title":  "0034 — Raspberry Still Life",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -376,7 +376,7 @@ window.GALLERY_DATA = [
     {
         "no":  35,
         "file":  "o038_BroniaFine_confederation_house.jpg",
-        "title":  "Confederation House",
+        "title":  "0035 — Confederation House",
         "year":  "",
         "size":  "50 × 40 cm",
         "medium":  "Oil on canvas",
@@ -387,7 +387,7 @@ window.GALLERY_DATA = [
     {
         "no":  36,
         "file":  "o039_BroniaFine_Lilies_on_the_river.jpg",
-        "title":  "Lilies On The River",
+        "title":  "0036 — Lilies On The River",
         "year":  "",
         "size":  "80 × 50 cm",
         "medium":  "Oil on canvas",
@@ -398,7 +398,7 @@ window.GALLERY_DATA = [
     {
         "no":  37,
         "file":  "o040_BroniaFine_Lilies_on_water.jpg",
-        "title":  "Lilies On Water",
+        "title":  "0037 — Lilies On Water",
         "year":  "",
         "size":  "50 × 40 cm",
         "medium":  "Oil on canvas",
@@ -409,7 +409,7 @@ window.GALLERY_DATA = [
     {
         "no":  38,
         "file":  "o041_BroniaFine_still_life.jpg",
-        "title":  "Still Life",
+        "title":  "0038 — Still Life",
         "year":  "",
         "size":  "50 × 40 cm",
         "medium":  "Oil on canvas",
@@ -420,7 +420,7 @@ window.GALLERY_DATA = [
     {
         "no":  39,
         "file":  "o042_BroniaFine_pomegranates.jpg",
-        "title":  "Pomegranates",
+        "title":  "0039 — Pomegranates",
         "year":  "",
         "size":  "35 × 45 cm",
         "medium":  "Oil on canvas",
@@ -431,7 +431,7 @@ window.GALLERY_DATA = [
     {
         "no":  40,
         "file":  "o043_BroniaFine_pomegranates.jpg",
-        "title":  "Pomegranates",
+        "title":  "0040 — Pomegranates",
         "year":  "",
         "size":  "35 × 45 cm",
         "medium":  "Oil on canvas",
@@ -442,7 +442,7 @@ window.GALLERY_DATA = [
     {
         "no":  41,
         "file":  "o044_BroniaFine_autumn_in_Kiev.jpg",
-        "title":  "Autumn In Kiev",
+        "title":  "0041 — Autumn In Kiev",
         "year":  "",
         "size":  "50 × 40 cm",
         "medium":  "Oil on canvas",
@@ -453,7 +453,7 @@ window.GALLERY_DATA = [
     {
         "no":  42,
         "file":  "o045_BroniaFine_Masks_on_a_wall.jpg",
-        "title":  "Masks On A Wall",
+        "title":  "0042 — Masks On A Wall",
         "year":  "",
         "size":  "40 × 60 cm",
         "medium":  "Oil on canvas",
@@ -464,7 +464,7 @@ window.GALLERY_DATA = [
     {
         "no":  43,
         "file":  "o046_BroniaFine_Lilies_on_water.jpg",
-        "title":  "Lilies On Water",
+        "title":  "0043 — Lilies On Water",
         "year":  "",
         "size":  "50 × 40 cm",
         "medium":  "Oil on canvas",
@@ -475,7 +475,7 @@ window.GALLERY_DATA = [
     {
         "no":  44,
         "file":  "o047_BroniaFine_Camels_on_Negev.jpg",
-        "title":  "Camels On Negev",
+        "title":  "0044 — Camels On Negev",
         "year":  "",
         "size":  "50 × 40 cm",
         "medium":  "Oil on canvas",
@@ -486,7 +486,7 @@ window.GALLERY_DATA = [
     {
         "no":  45,
         "file":  "o048_BroniaFine_still-life_with_pomegranates.jpg",
-        "title":  "Still Life With Pomegranates",
+        "title":  "0045 — Still Life With Pomegranates",
         "year":  "",
         "size":  "40 × 60 cm",
         "medium":  "Oil on canvas",
@@ -497,7 +497,7 @@ window.GALLERY_DATA = [
     {
         "no":  46,
         "file":  "o049_BroniaFine_Nachlaot_Jerusalem.jpg",
-        "title":  "Nachlaot Jerusalem",
+        "title":  "0046 — Nachlaot Jerusalem",
         "year":  "",
         "size":  "40 × 50 cm",
         "medium":  "Oil on canvas",
@@ -508,7 +508,7 @@ window.GALLERY_DATA = [
     {
         "no":  47,
         "file":  "o050_BroniaFine_Birch_forest.jpg",
-        "title":  "Birch Forest",
+        "title":  "0047 — Birch Forest",
         "year":  "",
         "size":  "50 × 40 cm",
         "medium":  "Oil on canvas",
@@ -519,7 +519,7 @@ window.GALLERY_DATA = [
     {
         "no":  48,
         "file":  "o051_BroniaFine_Venician_Masks.jpg",
-        "title":  "Venician Masks",
+        "title":  "0048 — Venician Masks",
         "year":  "",
         "size":  "40 × 60 cm",
         "medium":  "Oil on canvas",
@@ -530,7 +530,7 @@ window.GALLERY_DATA = [
     {
         "no":  49,
         "file":  "o052_BroniaFine_winter_Piestany.jpg",
-        "title":  "Winter Piestany",
+        "title":  "0049 — Winter Piestany",
         "year":  "",
         "size":  "40 × 50 cm",
         "medium":  "Oil on canvas",
@@ -541,7 +541,7 @@ window.GALLERY_DATA = [
     {
         "no":  50,
         "file":  "o053_BroniaFine_Venician_Masks.jpg",
-        "title":  "Venician Masks",
+        "title":  "0050 — Venician Masks",
         "year":  "",
         "size":  "60 × 40 cm",
         "medium":  "Oil on canvas",
@@ -552,7 +552,7 @@ window.GALLERY_DATA = [
     {
         "no":  51,
         "file":  "o054_BroniaFine_ROWAN_in_the_winter.jpg",
-        "title":  "Rowan In The Winter",
+        "title":  "0051 — Rowan In The Winter",
         "year":  "",
         "size":  "50 × 40 cm",
         "medium":  "Oil on canvas",
@@ -563,7 +563,7 @@ window.GALLERY_DATA = [
     {
         "no":  52,
         "file":  "o055_BroniaFine_IGUASSU_1.jpg",
-        "title":  "Iguassu 1",
+        "title":  "0052 — Iguassu 1",
         "year":  "",
         "size":  "40 × 80 cm",
         "medium":  "Oil on canvas",
@@ -574,7 +574,7 @@ window.GALLERY_DATA = [
     {
         "no":  53,
         "file":  "o055_BroniaFine_IGUASSU_2.jpg",
-        "title":  "Iguassu 2",
+        "title":  "0053 — Iguassu 2",
         "year":  "",
         "size":  "40 × 80 cm",
         "medium":  "Oil on canvas",
@@ -585,7 +585,7 @@ window.GALLERY_DATA = [
     {
         "no":  54,
         "file":  "o055_BroniaFine_IGUASSU_3.jpg",
-        "title":  "Iguassu 3",
+        "title":  "0054 — Iguassu 3",
         "year":  "",
         "size":  "40 × 80 cm",
         "medium":  "Oil on canvas",
@@ -596,7 +596,7 @@ window.GALLERY_DATA = [
     {
         "no":  55,
         "file":  "o055_BroniaFine_IGUASSU_triptych.jpg",
-        "title":  "Iguassu Triptych",
+        "title":  "0055 — Iguassu Triptych",
         "year":  "",
         "size":  "120 × 80 cm",
         "medium":  "Oil on canvas",
@@ -607,7 +607,7 @@ window.GALLERY_DATA = [
     {
         "no":  56,
         "file":  "o056_BroniaFine_Almonds_Branch.jpg",
-        "title":  "Almonds Branch",
+        "title":  "0056 — Almonds Branch",
         "year":  "",
         "size":  "40 × 80 cm",
         "medium":  "Oil on canvas",
@@ -618,7 +618,7 @@ window.GALLERY_DATA = [
     {
         "no":  57,
         "file":  "o057_BroniaFine_Ranunculus.jpg",
-        "title":  "Ranunculus",
+        "title":  "0057 — Ranunculus",
         "year":  "",
         "size":  "60 × 50 cm",
         "medium":  "Oil on canvas",
@@ -629,7 +629,7 @@ window.GALLERY_DATA = [
     {
         "no":  58,
         "file":  "o058_BroniaFine_Dana_and_Sea.jpg",
-        "title":  "Dana And Sea",
+        "title":  "0058 — Dana And Sea",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -640,7 +640,7 @@ window.GALLERY_DATA = [
     {
         "no":  59,
         "file":  "o059_BroniaFine_Still_Life_with_vine.jpg",
-        "title":  "Still Life With Vine",
+        "title":  "0059 — Still Life With Vine",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -651,7 +651,7 @@ window.GALLERY_DATA = [
     {
         "no":  60,
         "file":  "o060_BroniaFine_Morning_in_Kibuch.jpg",
-        "title":  "Morning In Kibuch",
+        "title":  "0060 — Morning In Kibuch",
         "year":  "",
         "size":  "40 × 50 cm",
         "medium":  "Oil on canvas",
@@ -662,7 +662,7 @@ window.GALLERY_DATA = [
     {
         "no":  61,
         "file":  "o061_BroniaFine_Sun_down_in_Sishel_1.jpg",
-        "title":  "Sun Down In Sishel 1",
+        "title":  "0061 — Sun Down In Sishel 1",
         "year":  "",
         "size":  "40 × 80 cm",
         "medium":  "Oil on canvas",
@@ -673,7 +673,7 @@ window.GALLERY_DATA = [
     {
         "no":  62,
         "file":  "o061_BroniaFine_Sun_down_in_Sishel_2.jpg",
-        "title":  "Sun Down In Sishel 2",
+        "title":  "0062 — Sun Down In Sishel 2",
         "year":  "",
         "size":  "40 × 80 cm",
         "medium":  "Oil on canvas",
@@ -684,7 +684,7 @@ window.GALLERY_DATA = [
     {
         "no":  63,
         "file":  "o061_BroniaFine_Sun_down_in_Sishel_3.jpg",
-        "title":  "Sun Down In Sishel 3",
+        "title":  "0063 — Sun Down In Sishel 3",
         "year":  "",
         "size":  "40 × 80 cm",
         "medium":  "Oil on canvas",
@@ -695,7 +695,7 @@ window.GALLERY_DATA = [
     {
         "no":  64,
         "file":  "o061_BroniaFine_Sun_down_in_Sishel_triptych.jpg",
-        "title":  "Sun Down In Sishel Triptych",
+        "title":  "0064 — Sun Down In Sishel Triptych",
         "year":  "",
         "size":  "120 × 80 cm",
         "medium":  "Oil on canvas",
@@ -706,7 +706,7 @@ window.GALLERY_DATA = [
     {
         "no":  65,
         "file":  "o062_BroniaFine_Flamenco_dancer.jpg",
-        "title":  "Flamenco Dancer",
+        "title":  "0065 — Flamenco Dancer",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -717,7 +717,7 @@ window.GALLERY_DATA = [
     {
         "no":  66,
         "file":  "o063_BroniaFine_ballet_dancer.jpg",
-        "title":  "Ballet Dancer",
+        "title":  "0066 — Ballet Dancer",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -728,7 +728,7 @@ window.GALLERY_DATA = [
     {
         "no":  67,
         "file":  "o064_BroniaFine_Sunset_in_Jerusalem.jpg",
-        "title":  "Sunset In Jerusalem",
+        "title":  "0067 — Sunset In Jerusalem",
         "year":  "",
         "size":  "80 × 70 cm",
         "medium":  "Oil on canvas",
@@ -739,7 +739,7 @@ window.GALLERY_DATA = [
     {
         "no":  68,
         "file":  "o065_BroniaFine_dancer.jpg",
-        "title":  "Dancer",
+        "title":  "0068 — Dancer",
         "year":  "",
         "size":  "50 × 50 cm",
         "medium":  "Oil on canvas",
@@ -750,7 +750,7 @@ window.GALLERY_DATA = [
     {
         "no":  69,
         "file":  "o066_BroniaFine_dreams_of_a_holiday_apartment.jpg",
-        "title":  "Dreams Of A Holiday Apartment",
+        "title":  "0069 — Dreams Of A Holiday Apartment",
         "year":  "",
         "size":  "50 × 60 cm",
         "medium":  "Oil on canvas",
@@ -761,7 +761,7 @@ window.GALLERY_DATA = [
     {
         "no":  70,
         "file":  "o067_BroniaFine_yellow_field.jpg",
-        "title":  "Yellow Field",
+        "title":  "0070 — Yellow Field",
         "year":  "",
         "size":  "120 × 80 cm",
         "medium":  "Oil on canvas",
@@ -772,7 +772,7 @@ window.GALLERY_DATA = [
     {
         "no":  71,
         "file":  "o068_BroniaFine_Lake_with_Lilies.jpg",
-        "title":  "Lake With Lilies",
+        "title":  "0071 — Lake With Lilies",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -783,7 +783,7 @@ window.GALLERY_DATA = [
     {
         "no":  72,
         "file":  "o069_BroniaFine_lilac_bouquet_in_a_bucket.jpg",
-        "title":  "Lilac Bouquet In A Bucket",
+        "title":  "0072 — Lilac Bouquet In A Bucket",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -794,7 +794,7 @@ window.GALLERY_DATA = [
     {
         "no":  73,
         "file":  "o070_BroniaFine_red_field.jpg",
-        "title":  "Red Field",
+        "title":  "0073 — Red Field",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -805,7 +805,7 @@ window.GALLERY_DATA = [
     {
         "no":  74,
         "file":  "o071_BroniaFine_cock.jpg",
-        "title":  "Cock",
+        "title":  "0074 — Cock",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -816,7 +816,7 @@ window.GALLERY_DATA = [
     {
         "no":  75,
         "file":  "o072_BroniaFine_small_bridge.jpg",
-        "title":  "Small Bridge",
+        "title":  "0075 — Small Bridge",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -827,7 +827,7 @@ window.GALLERY_DATA = [
     {
         "no":  76,
         "file":  "o073_BroniaFine_cranes.jpg",
-        "title":  "Cranes",
+        "title":  "0076 — Cranes",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -838,7 +838,7 @@ window.GALLERY_DATA = [
     {
         "no":  77,
         "file":  "o074_BroniaFine_vineyard.jpg",
-        "title":  "Vineyard",
+        "title":  "0077 — Vineyard",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -849,7 +849,7 @@ window.GALLERY_DATA = [
     {
         "no":  78,
         "file":  "o075_BroniaFine_violet_field.jpg",
-        "title":  "Violet Field",
+        "title":  "0078 — Violet Field",
         "year":  "",
         "size":  "120 × 80 cm",
         "medium":  "Oil on canvas",
@@ -860,7 +860,7 @@ window.GALLERY_DATA = [
     {
         "no":  79,
         "file":  "o076_BroniaFine_Jordane_river.jpg",
-        "title":  "Jordane River",
+        "title":  "0079 — Jordane River",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -871,7 +871,7 @@ window.GALLERY_DATA = [
     {
         "no":  80,
         "file":  "o077_BroniaFine_yellow_flowers.jpg",
-        "title":  "Yellow Flowers",
+        "title":  "0080 — Yellow Flowers",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -882,7 +882,7 @@ window.GALLERY_DATA = [
     {
         "no":  81,
         "file":  "o078_BroniaFine_Jerusalem_Tiho_house.jpg",
-        "title":  "Jerusalem Tiho House",
+        "title":  "0081 — Jerusalem Tiho House",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -893,7 +893,7 @@ window.GALLERY_DATA = [
     {
         "no":  82,
         "file":  "o079_BroniaFine_Winter_in_Jerusalem.jpg",
-        "title":  "Winter In Jerusalem",
+        "title":  "0082 — Winter In Jerusalem",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -904,7 +904,7 @@ window.GALLERY_DATA = [
     {
         "no":  83,
         "file":  "o080_BroniaFine_Almond_flowering.jpg",
-        "title":  "Almond Flowering",
+        "title":  "0083 — Almond Flowering",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -915,7 +915,7 @@ window.GALLERY_DATA = [
     {
         "no":  84,
         "file":  "o081_BroniaFine_Art_fair.jpg",
-        "title":  "Art Fair",
+        "title":  "0084 — Art Fair",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -926,7 +926,7 @@ window.GALLERY_DATA = [
     {
         "no":  85,
         "file":  "o082_BroniaFine_winter-in-jerusalen.jpg",
-        "title":  "Winter In Jerusalen",
+        "title":  "0085 — Winter In Jerusalen",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -937,7 +937,7 @@ window.GALLERY_DATA = [
     {
         "no":  86,
         "file":  "o083_BroniaFine_window_to_garden.jpg",
-        "title":  "Window To Garden",
+        "title":  "0086 — Window To Garden",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -948,7 +948,7 @@ window.GALLERY_DATA = [
     {
         "no":  87,
         "file":  "o084_BroniaFine_Jerusalem_Yemin_Moshe_st.jpg",
-        "title":  "Jerusalem Yemin Moshe St",
+        "title":  "0087 — Jerusalem Yemin Moshe St",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -959,7 +959,7 @@ window.GALLERY_DATA = [
     {
         "no":  88,
         "file":  "o085_BroniaFine_balcony_in_flowers.jpg",
-        "title":  "Balcony In Flowers",
+        "title":  "0088 — Balcony In Flowers",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -970,7 +970,7 @@ window.GALLERY_DATA = [
     {
         "no":  89,
         "file":  "o086_BroniaFine_Aylaon-road_Tel-aviv.jpg",
-        "title":  "Aylaon Road Tel Aviv",
+        "title":  "0089 — Aylaon Road Tel Aviv",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -981,7 +981,7 @@ window.GALLERY_DATA = [
     {
         "no":  90,
         "file":  "o087_BroniaFine_oak.jpg",
-        "title":  "Oak",
+        "title":  "0090 — Oak",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -992,7 +992,7 @@ window.GALLERY_DATA = [
     {
         "no":  91,
         "file":  "o088_BroniaFine_ballet_bolshoi.jpg",
-        "title":  "Ballet Bolshoi",
+        "title":  "0091 — Ballet Bolshoi",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1003,7 +1003,7 @@ window.GALLERY_DATA = [
     {
         "no":  92,
         "file":  "o089_BroniaFine_ballet_bolshoi.jpg",
-        "title":  "Ballet Bolshoi",
+        "title":  "0092 — Ballet Bolshoi",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1014,7 +1014,7 @@ window.GALLERY_DATA = [
     {
         "no":  93,
         "file":  "o090_BroniaFine_ballet_bolshoi.jpg",
-        "title":  "Ballet Bolshoi",
+        "title":  "0093 — Ballet Bolshoi",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1025,7 +1025,7 @@ window.GALLERY_DATA = [
     {
         "no":  94,
         "file":  "o091_BroniaFine_poppies_field.jpg",
-        "title":  "Poppies Field",
+        "title":  "0094 — Poppies Field",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1036,7 +1036,7 @@ window.GALLERY_DATA = [
     {
         "no":  95,
         "file":  "o092_BroniaFine_Still_Life.jpg",
-        "title":  "Still Life",
+        "title":  "0095 — Still Life",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1047,7 +1047,7 @@ window.GALLERY_DATA = [
     {
         "no":  96,
         "file":  "o093_BroniaFine_Swiss_Landscape.jpg",
-        "title":  "Swiss Landscape",
+        "title":  "0096 — Swiss Landscape",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1058,7 +1058,7 @@ window.GALLERY_DATA = [
     {
         "no":  97,
         "file":  "o094_BroniaFine_raining_in_jerusalem_Jaffo_st.jpg",
-        "title":  "Raining In Jerusalem Jaffo St",
+        "title":  "0097 — Raining In Jerusalem Jaffo St",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1069,7 +1069,7 @@ window.GALLERY_DATA = [
     {
         "no":  98,
         "file":  "o095_BroniaFine_window_to_garden.jpg",
-        "title":  "Window To Garden",
+        "title":  "0098 — Window To Garden",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1080,7 +1080,7 @@ window.GALLERY_DATA = [
     {
         "no":  99,
         "file":  "o096_BroniaFine_roses.jpg",
-        "title":  "Roses",
+        "title":  "0099 — Roses",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1091,7 +1091,7 @@ window.GALLERY_DATA = [
     {
         "no":  100,
         "file":  "o097_BroniaFine_SEA_oil_70x50.jpg",
-        "title":  "Sea Oil 70X50",
+        "title":  "0100 — Sea Oil 70X50",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1102,7 +1102,7 @@ window.GALLERY_DATA = [
     {
         "no":  101,
         "file":  "o098_BroniaFine_raining_in_Jerusalem_Jaffo_st-2.jpg",
-        "title":  "Raining In Jerusalem Jaffo St 2",
+        "title":  "0101 — Raining In Jerusalem Jaffo St 2",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1113,7 +1113,7 @@ window.GALLERY_DATA = [
     {
         "no":  102,
         "file":  "o099_BroniaFine_old_city_Jerusalem.jpg",
-        "title":  "Old City Jerusalem",
+        "title":  "0102 — Old City Jerusalem",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1124,7 +1124,7 @@ window.GALLERY_DATA = [
     {
         "no":  103,
         "file":  "o100_BroniaFine_flowers_in_a_jug.jpg",
-        "title":  "Flowers In A Jug",
+        "title":  "0103 — Flowers In A Jug",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1135,7 +1135,7 @@ window.GALLERY_DATA = [
     {
         "no":  104,
         "file":  "o101_BroniaFine_vegetable_still_life.jpg",
-        "title":  "Vegetable Still Life",
+        "title":  "0104 — Vegetable Still Life",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1146,7 +1146,7 @@ window.GALLERY_DATA = [
     {
         "no":  105,
         "file":  "o102_BroniaFine_Boganvilia.jpg",
-        "title":  "Boganvilia",
+        "title":  "0105 — Boganvilia",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1157,7 +1157,7 @@ window.GALLERY_DATA = [
     {
         "no":  106,
         "file":  "o103_BroniaFine_Still_Life.jpg",
-        "title":  "Still Life",
+        "title":  "0106 — Still Life",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1168,7 +1168,7 @@ window.GALLERY_DATA = [
     {
         "no":  107,
         "file":  "o104_BroniaFine_tel-aviv.jpg",
-        "title":  "Tel Aviv",
+        "title":  "0107 — Tel Aviv",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1179,7 +1179,7 @@ window.GALLERY_DATA = [
     {
         "no":  108,
         "file":  "o105_BroniaFine_Hedera.jpg",
-        "title":  "Hedera",
+        "title":  "0108 — Hedera",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1190,7 +1190,7 @@ window.GALLERY_DATA = [
     {
         "no":  109,
         "file":  "o106_BroniaFine_Western_wall.jpg",
-        "title":  "Western Wall",
+        "title":  "0109 — Western Wall",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1201,7 +1201,7 @@ window.GALLERY_DATA = [
     {
         "no":  110,
         "file":  "o107_BroniaFine_Old_City_Jerusalem.jpg",
-        "title":  "Old City Jerusalem",
+        "title":  "0110 — Old City Jerusalem",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1212,7 +1212,7 @@ window.GALLERY_DATA = [
     {
         "no":  111,
         "file":  "o108_BroniaFine_King_Gorge_HOTEL.jpg",
-        "title":  "King Gorge Hotel",
+        "title":  "0111 — King Gorge Hotel",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1223,7 +1223,7 @@ window.GALLERY_DATA = [
     {
         "no":  112,
         "file":  "o109_BroniaFine_flowers_in_a_jug.jpg",
-        "title":  "Flowers In A Jug",
+        "title":  "0112 — Flowers In A Jug",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1234,7 +1234,7 @@ window.GALLERY_DATA = [
     {
         "no":  113,
         "file":  "o110_BroniaFine_Old_Jerusalem.jpg",
-        "title":  "Old Jerusalem",
+        "title":  "0113 — Old Jerusalem",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1245,7 +1245,7 @@ window.GALLERY_DATA = [
     {
         "no":  114,
         "file":  "o111_BroniaFine_Tul_Karem_Jerusalem.jpg",
-        "title":  "Tul Karem Jerusalem",
+        "title":  "0114 — Tul Karem Jerusalem",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1256,7 +1256,7 @@ window.GALLERY_DATA = [
     {
         "no":  115,
         "file":  "o112_BroniaFine_flowers_under_walls_of_Jerusalem.jpg",
-        "title":  "Flowers Under Walls Of Jerusalem",
+        "title":  "0115 — Flowers Under Walls Of Jerusalem",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1267,7 +1267,7 @@ window.GALLERY_DATA = [
     {
         "no":  116,
         "file":  "o113_BroniaFine_Lilac_at_a_window.jpg",
-        "title":  "Lilac At A Window",
+        "title":  "0116 — Lilac At A Window",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1278,7 +1278,7 @@ window.GALLERY_DATA = [
     {
         "no":  117,
         "file":  "o114_BroniaFine_St.John_Monastery_Israel.jpg",
-        "title":  "St.John Monastery Israel",
+        "title":  "0117 — St.John Monastery Israel",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1289,7 +1289,7 @@ window.GALLERY_DATA = [
     {
         "no":  118,
         "file":  "o115_BroniaFine_summer_in_Sant_Peterburg.jpg",
-        "title":  "Summer In Sant Peterburg",
+        "title":  "0118 — Summer In Sant Peterburg",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1300,7 +1300,7 @@ window.GALLERY_DATA = [
     {
         "no":  119,
         "file":  "o116_BroniaFine_roses_at_a_window.jpg",
-        "title":  "Roses At A Window",
+        "title":  "0119 — Roses At A Window",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1311,7 +1311,7 @@ window.GALLERY_DATA = [
     {
         "no":  120,
         "file":  "o117_BroniaFine_sea.jpg",
-        "title":  "Sea",
+        "title":  "0120 — Sea",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1322,7 +1322,7 @@ window.GALLERY_DATA = [
     {
         "no":  121,
         "file":  "o118_BroniaFine_brige_Jerusalem.jpg",
-        "title":  "Brige Jerusalem",
+        "title":  "0121 — Brige Jerusalem",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1333,7 +1333,7 @@ window.GALLERY_DATA = [
     {
         "no":  122,
         "file":  "o119_BroniaFine_3-FAIRIES.jpg",
-        "title":  "3 Fairies",
+        "title":  "0122 — 3 Fairies",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1344,7 +1344,7 @@ window.GALLERY_DATA = [
     {
         "no":  123,
         "file":  "o120_BroniaFine_Jerusalem_tram.jpg",
-        "title":  "Jerusalem Tram",
+        "title":  "0123 — Jerusalem Tram",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1355,7 +1355,7 @@ window.GALLERY_DATA = [
     {
         "no":  124,
         "file":  "o121_BroniaFine_summer_wood.jpg",
-        "title":  "Summer Wood",
+        "title":  "0124 — Summer Wood",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1366,7 +1366,7 @@ window.GALLERY_DATA = [
     {
         "no":  125,
         "file":  "o122_BroniaFine_Mahane-Jeuda.jpg",
-        "title":  "Mahane Jeuda",
+        "title":  "0125 — Mahane Jeuda",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1377,7 +1377,7 @@ window.GALLERY_DATA = [
     {
         "no":  126,
         "file":  "o123_BroniaFine_APPLES.jpg",
-        "title":  "Apples",
+        "title":  "0126 — Apples",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1388,7 +1388,7 @@ window.GALLERY_DATA = [
     {
         "no":  127,
         "file":  "o124_BroniaFine_MUSHROOMS.jpg",
-        "title":  "Mushrooms",
+        "title":  "0127 — Mushrooms",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1399,7 +1399,7 @@ window.GALLERY_DATA = [
     {
         "no":  128,
         "file":  "o125_BroniaFine_The_women_with_a_mirror.jpg",
-        "title":  "The Women With A Mirror",
+        "title":  "0128 — The Women With A Mirror",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1410,7 +1410,7 @@ window.GALLERY_DATA = [
     {
         "no":  129,
         "file":  "o126_BroniaFine_Old_men_and_sea.jpg",
-        "title":  "Old Men And Sea",
+        "title":  "0129 — Old Men And Sea",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1421,7 +1421,7 @@ window.GALLERY_DATA = [
     {
         "no":  130,
         "file":  "o127_BroniaFine_family_and_sea.jpg",
-        "title":  "Family And Sea",
+        "title":  "0130 — Family And Sea",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1432,7 +1432,7 @@ window.GALLERY_DATA = [
     {
         "no":  131,
         "file":  "o128_BroniaFine_Russan_summer.jpg",
-        "title":  "Russan Summer",
+        "title":  "0131 — Russan Summer",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1443,7 +1443,7 @@ window.GALLERY_DATA = [
     {
         "no":  132,
         "file":  "o129_BroniaFine_Russan_summer.jpg",
-        "title":  "Russan Summer",
+        "title":  "0132 — Russan Summer",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1454,7 +1454,7 @@ window.GALLERY_DATA = [
     {
         "no":  133,
         "file":  "o130_BroniaFine_Russan_autumn.jpg",
-        "title":  "Russan Autumn",
+        "title":  "0133 — Russan Autumn",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1465,7 +1465,7 @@ window.GALLERY_DATA = [
     {
         "no":  134,
         "file":  "o131_BroniaFine_Budapest.jpg",
-        "title":  "Budapest",
+        "title":  "0134 — Budapest",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1476,7 +1476,7 @@ window.GALLERY_DATA = [
     {
         "no":  135,
         "file":  "o132_BroniaFine_Jerusalem.jpg",
-        "title":  "Jerusalem",
+        "title":  "0135 — Jerusalem",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1487,7 +1487,7 @@ window.GALLERY_DATA = [
     {
         "no":  136,
         "file":  "o133_1_BroniaFine_gerl.jpg",
-        "title":  "O133 1 Broniafine Girl",
+        "title":  "0136 — O133 1 Broniafine Girl",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1498,7 +1498,7 @@ window.GALLERY_DATA = [
     {
         "no":  137,
         "file":  "o133_BroniaFine_still_life_on_flank.jpg",
-        "title":  "Still Life On Flank",
+        "title":  "0137 — Still Life On Flank",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1509,7 +1509,7 @@ window.GALLERY_DATA = [
     {
         "no":  138,
         "file":  "o134_BroniaFine_tea_drinking_on_scarf.jpg",
-        "title":  "Tea Drinking On Scarf",
+        "title":  "0138 — Tea Drinking On Scarf",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1520,7 +1520,7 @@ window.GALLERY_DATA = [
     {
         "no":  139,
         "file":  "o135_BroniaFine_rural_still_life.jpg",
-        "title":  "Rural Still Life",
+        "title":  "0139 — Rural Still Life",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1531,7 +1531,7 @@ window.GALLERY_DATA = [
     {
         "no":  140,
         "file":  "o136_BroniaFine_violoncellist.jpg",
-        "title":  "Violoncellist",
+        "title":  "0140 — Violoncellist",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1542,7 +1542,7 @@ window.GALLERY_DATA = [
     {
         "no":  141,
         "file":  "o137_BroniaFine_violinist.jpg",
-        "title":  "Violinist",
+        "title":  "0141 — Violinist",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1553,7 +1553,7 @@ window.GALLERY_DATA = [
     {
         "no":  142,
         "file":  "o138_BroniaFine_zion_square.jpg",
-        "title":  "Zion Square",
+        "title":  "0142 — Zion Square",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1564,7 +1564,7 @@ window.GALLERY_DATA = [
     {
         "no":  143,
         "file":  "o139_BroniaFine_vaza_with_daisies.jpg",
-        "title":  "Vaza With Daisies",
+        "title":  "0143 — Vaza With Daisies",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1575,7 +1575,7 @@ window.GALLERY_DATA = [
     {
         "no":  144,
         "file":  "o140_BroniaFine_music_still_life.jpg",
-        "title":  "Music Still Life",
+        "title":  "0144 — Music Still Life",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1586,7 +1586,7 @@ window.GALLERY_DATA = [
     {
         "no":  145,
         "file":  "o142_BroniaFine_winter_pond.jpg",
-        "title":  "Winter Pond",
+        "title":  "0145 — Winter Pond",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1597,7 +1597,7 @@ window.GALLERY_DATA = [
     {
         "no":  146,
         "file":  "o143_BroniaFine_old_women_in_the_rain.jpg",
-        "title":  "Old Women In The Rain",
+        "title":  "0146 — Old Women In The Rain",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1608,7 +1608,7 @@ window.GALLERY_DATA = [
     {
         "no":  147,
         "file":  "o144_BroniaFine_still_life.jpg",
-        "title":  "Still Life",
+        "title":  "0147 — Still Life",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1619,7 +1619,7 @@ window.GALLERY_DATA = [
     {
         "no":  148,
         "file":  "o145_BroniaFine_geese_over_Jerusalem.jpg",
-        "title":  "Geese Over Jerusalem",
+        "title":  "0148 — Geese Over Jerusalem",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1630,7 +1630,7 @@ window.GALLERY_DATA = [
     {
         "no":  149,
         "file":  "o146_BroniaFine_Jerusalem.jpg",
-        "title":  "Jerusalem",
+        "title":  "0149 — Jerusalem",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1641,7 +1641,7 @@ window.GALLERY_DATA = [
     {
         "no":  150,
         "file":  "o147_BroniaFine_Eilat.jpg",
-        "title":  "Eilat",
+        "title":  "0150 — Eilat",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1652,7 +1652,7 @@ window.GALLERY_DATA = [
     {
         "no":  151,
         "file":  "o148_BroniaFine_Jerusalem.jpg",
-        "title":  "Jerusalem",
+        "title":  "0151 — Jerusalem",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1663,7 +1663,7 @@ window.GALLERY_DATA = [
     {
         "no":  152,
         "file":  "o149_BroniaFine_dancers.jpg",
-        "title":  "Dancers",
+        "title":  "0152 — Dancers",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1674,7 +1674,7 @@ window.GALLERY_DATA = [
     {
         "no":  153,
         "file":  "o150_BroniaFine_juffo_port.jpg",
-        "title":  "Juffo Port",
+        "title":  "0153 — Juffo Port",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1685,7 +1685,7 @@ window.GALLERY_DATA = [
     {
         "no":  154,
         "file":  "o151_BroniaFine_Romi.jpg",
-        "title":  "Romi",
+        "title":  "0154 — Romi",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1696,7 +1696,7 @@ window.GALLERY_DATA = [
     {
         "no":  155,
         "file":  "o152_BroniaFine_Turkey.jpg",
-        "title":  "Turkey",
+        "title":  "0155 — Turkey",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1707,7 +1707,7 @@ window.GALLERY_DATA = [
     {
         "no":  156,
         "file":  "o153_BroniaFine_Lilacs_in_a_vase.jpg",
-        "title":  "Lilacs In A Vase",
+        "title":  "0156 — Lilacs In A Vase",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1718,7 +1718,7 @@ window.GALLERY_DATA = [
     {
         "no":  157,
         "file":  "o154_BroniaFine_flowers.jpg",
-        "title":  "Flowers",
+        "title":  "0157 — Flowers",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1729,7 +1729,7 @@ window.GALLERY_DATA = [
     {
         "no":  158,
         "file":  "o155_BroniaFine_flowers.jpg",
-        "title":  "Flowers",
+        "title":  "0158 — Flowers",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1740,7 +1740,7 @@ window.GALLERY_DATA = [
     {
         "no":  159,
         "file":  "o156_BroniaFine_runner.jpg",
-        "title":  "Runner",
+        "title":  "0159 — Runner",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1751,7 +1751,7 @@ window.GALLERY_DATA = [
     {
         "no":  160,
         "file":  "o157_BroniaFine_funny_elephants.jpg",
-        "title":  "Funny Elephants",
+        "title":  "0160 — Funny Elephants",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1762,7 +1762,7 @@ window.GALLERY_DATA = [
     {
         "no":  161,
         "file":  "o158_BroniaFine_country_house.jpg",
-        "title":  "Country House",
+        "title":  "0161 — Country House",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1773,7 +1773,7 @@ window.GALLERY_DATA = [
     {
         "no":  162,
         "file":  "o159_BroniaFine_still_life_with_bottles.jpg",
-        "title":  "Still Life With Bottles",
+        "title":  "0162 — Still Life With Bottles",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1784,7 +1784,7 @@ window.GALLERY_DATA = [
     {
         "no":  163,
         "file":  "o160_BroniaFine_old_women_on_roundabout.jpg",
-        "title":  "Old Women On Roundabout",
+        "title":  "0163 — Old Women On Roundabout",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1795,7 +1795,7 @@ window.GALLERY_DATA = [
     {
         "no":  164,
         "file":  "o161_BroniaFine_Bruklin_bridge.jpg",
-        "title":  "Bruklin Bridge",
+        "title":  "0164 — Bruklin Bridge",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1806,7 +1806,7 @@ window.GALLERY_DATA = [
     {
         "no":  165,
         "file":  "o162_BroniaFine_Italy.jpg",
-        "title":  "Italy",
+        "title":  "0165 — Italy",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1817,7 +1817,7 @@ window.GALLERY_DATA = [
     {
         "no":  166,
         "file":  "o163_BroniaFine_windows.jpg",
-        "title":  "Windows",
+        "title":  "0166 — Windows",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1828,7 +1828,7 @@ window.GALLERY_DATA = [
     {
         "no":  167,
         "file":  "o164_BroniaFine_balkon.jpg",
-        "title":  "Balkon",
+        "title":  "0167 — Balkon",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1839,7 +1839,7 @@ window.GALLERY_DATA = [
     {
         "no":  168,
         "file":  "o165_BroniaFine_danser_in_white.jpg",
-        "title":  "Danser In White",
+        "title":  "0168 — Danser In White",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1850,7 +1850,7 @@ window.GALLERY_DATA = [
     {
         "no":  169,
         "file":  "o166_BroniaFine_still_life.jpg",
-        "title":  "Still Life",
+        "title":  "0169 — Still Life",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1861,7 +1861,7 @@ window.GALLERY_DATA = [
     {
         "no":  170,
         "file":  "o167_BroniaFine_women.jpg",
-        "title":  "Women",
+        "title":  "0170 — Women",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1872,7 +1872,7 @@ window.GALLERY_DATA = [
     {
         "no":  171,
         "file":  "o168_BroniaFine_African.jpg",
-        "title":  "African",
+        "title":  "0171 — African",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1883,7 +1883,7 @@ window.GALLERY_DATA = [
     {
         "no":  172,
         "file":  "o169_BroniaFine_flowers.jpg",
-        "title":  "Flowers",
+        "title":  "0172 — Flowers",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1894,7 +1894,7 @@ window.GALLERY_DATA = [
     {
         "no":  173,
         "file":  "o170_BroniaFine_MAYA_PLISECHKAYA.jpg",
-        "title":  "Maya Plisechkaya",
+        "title":  "0173 — Maya Plisechkaya",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1905,7 +1905,7 @@ window.GALLERY_DATA = [
     {
         "no":  174,
         "file":  "o171_BroniaFine_Perugia.jpg",
-        "title":  "Perugia",
+        "title":  "0174 — Perugia",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1916,7 +1916,7 @@ window.GALLERY_DATA = [
     {
         "no":  175,
         "file":  "o172_BroniaFine_Anna_Karenina.jpg",
-        "title":  "Anna Karenina",
+        "title":  "0175 — Anna Karenina",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1927,7 +1927,7 @@ window.GALLERY_DATA = [
     {
         "no":  176,
         "file":  "o173_BroniaFine_women_in_Paris.jpg",
-        "title":  "Women In Paris",
+        "title":  "0176 — Women In Paris",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1938,7 +1938,7 @@ window.GALLERY_DATA = [
     {
         "no":  177,
         "file":  "o174_BroniaFine_women_in_Paris.jpg",
-        "title":  "Women In Paris",
+        "title":  "0177 — Women In Paris",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1949,7 +1949,7 @@ window.GALLERY_DATA = [
     {
         "no":  178,
         "file":  "o175_BroniaFine_women.jpg",
-        "title":  "Women",
+        "title":  "0178 — Women",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1960,7 +1960,7 @@ window.GALLERY_DATA = [
     {
         "no":  179,
         "file":  "o176_BroniaFine_Lia_buthday.jpg",
-        "title":  "Lia Buthday",
+        "title":  "0179 — Lia Buthday",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1971,7 +1971,7 @@ window.GALLERY_DATA = [
     {
         "no":  180,
         "file":  "o177_BroniaFine_guitar_player.jpg",
-        "title":  "Guitar Player",
+        "title":  "0180 — Guitar Player",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1982,7 +1982,7 @@ window.GALLERY_DATA = [
     {
         "no":  181,
         "file":  "o178_BroniaFine_ballet_dancer.jpg",
-        "title":  "Ballet Dancer",
+        "title":  "0181 — Ballet Dancer",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -1993,7 +1993,7 @@ window.GALLERY_DATA = [
     {
         "no":  182,
         "file":  "o179_BroniaFine_sea.jpg",
-        "title":  "Sea",
+        "title":  "0182 — Sea",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2004,7 +2004,7 @@ window.GALLERY_DATA = [
     {
         "no":  183,
         "file":  "o180_BroniaFine_woman_in_N.Y.jpg",
-        "title":  "Woman In N.Y",
+        "title":  "0183 — Woman In N.Y",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2015,7 +2015,7 @@ window.GALLERY_DATA = [
     {
         "no":  184,
         "file":  "o181_BroniaFine_Saxophonist.jpg",
-        "title":  "Saxophonist",
+        "title":  "0184 — Saxophonist",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2026,7 +2026,7 @@ window.GALLERY_DATA = [
     {
         "no":  185,
         "file":  "o182_BroniaFine_kiss_in_N.Y.jpg",
-        "title":  "Kiss In N.Y",
+        "title":  "0185 — Kiss In N.Y",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2037,7 +2037,7 @@ window.GALLERY_DATA = [
     {
         "no":  186,
         "file":  "o183_BroniaFine_flowers.jpg",
-        "title":  "Flowers",
+        "title":  "0186 — Flowers",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2048,7 +2048,7 @@ window.GALLERY_DATA = [
     {
         "no":  187,
         "file":  "o184_BroniaFine_Lion.jpg",
-        "title":  "Lion",
+        "title":  "0187 — Lion",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2059,7 +2059,7 @@ window.GALLERY_DATA = [
     {
         "no":  188,
         "file":  "o185_BroniaFine_YAFFO.jpg",
-        "title":  "Yaffo",
+        "title":  "0188 — Yaffo",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2070,7 +2070,7 @@ window.GALLERY_DATA = [
     {
         "no":  189,
         "file":  "o186_BroniaFine_CUBA.jpg",
-        "title":  "Cuba",
+        "title":  "0189 — Cuba",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2081,7 +2081,7 @@ window.GALLERY_DATA = [
     {
         "no":  190,
         "file":  "o187_BroniaFine_WOMEN_AND_LEAFFALL.jpg",
-        "title":  "Women And Leaffall",
+        "title":  "0190 — Women And Leaffall",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2092,7 +2092,7 @@ window.GALLERY_DATA = [
     {
         "no":  191,
         "file":  "o188_BroniaFine_girl_in_garden.jpg",
-        "title":  "Girl In Garden",
+        "title":  "0191 — Girl In Garden",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2103,7 +2103,7 @@ window.GALLERY_DATA = [
     {
         "no":  192,
         "file":  "o189_BroniaFine_by_the_fireplace.jpg",
-        "title":  "By The Fireplace",
+        "title":  "0192 — By The Fireplace",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2114,7 +2114,7 @@ window.GALLERY_DATA = [
     {
         "no":  193,
         "file":  "o190_BroniaFine_dancer.jpg",
-        "title":  "Dancer",
+        "title":  "0193 — Dancer",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2125,7 +2125,7 @@ window.GALLERY_DATA = [
     {
         "no":  194,
         "file":  "o191_BroniaFine_mystic_world.jpg",
-        "title":  "Mystic World",
+        "title":  "0194 — Mystic World",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2136,7 +2136,7 @@ window.GALLERY_DATA = [
     {
         "no":  195,
         "file":  "o192_BroniaFine_girl_with_dog.jpg",
-        "title":  "Girl With Dog",
+        "title":  "0195 — Girl With Dog",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2147,7 +2147,7 @@ window.GALLERY_DATA = [
     {
         "no":  196,
         "file":  "o193_BroniaFine_my_drims.jpg",
-        "title":  "My Drims",
+        "title":  "0196 — My Drims",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2158,7 +2158,7 @@ window.GALLERY_DATA = [
     {
         "no":  197,
         "file":  "o194_BroniaFine_sisters.jpg",
-        "title":  "Sisters",
+        "title":  "0197 — Sisters",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2169,7 +2169,7 @@ window.GALLERY_DATA = [
     {
         "no":  198,
         "file":  "o195_Girl_at_bar.jpg",
-        "title":  "O195 Girl At Bar",
+        "title":  "0198 — O195 Girl At Bar",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2180,7 +2180,7 @@ window.GALLERY_DATA = [
     {
         "no":  199,
         "file":  "o196_Admiralty_in_lilac.jpg",
-        "title":  "O196 Admiralty In Lilac",
+        "title":  "0199 — O196 Admiralty In Lilac",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2191,7 +2191,7 @@ window.GALLERY_DATA = [
     {
         "no":  200,
         "file":  "o197_BroniaFine_Patagoniya.jpg",
-        "title":  "Patagoniya",
+        "title":  "0200 — Patagoniya",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2202,7 +2202,7 @@ window.GALLERY_DATA = [
     {
         "no":  201,
         "file":  "o198_BroniaFine__Still_Life.jpg",
-        "title":  "Still Life",
+        "title":  "0201 — Still Life",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2213,7 +2213,7 @@ window.GALLERY_DATA = [
     {
         "no":  202,
         "file":  "o199_BroniaFine__girl_and_flowers.jpg",
-        "title":  "Girl And Flowers",
+        "title":  "0202 — Girl And Flowers",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2224,7 +2224,7 @@ window.GALLERY_DATA = [
     {
         "no":  203,
         "file":  "o200_BroniaFine__girl_in_the_window.jpg",
-        "title":  "Girl In The Window",
+        "title":  "0203 — Girl In The Window",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2235,7 +2235,7 @@ window.GALLERY_DATA = [
     {
         "no":  204,
         "file":  "o201_BroniaFine__Caravan.jpg",
-        "title":  "Caravan",
+        "title":  "0204 — Caravan",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2246,7 +2246,7 @@ window.GALLERY_DATA = [
     {
         "no":  205,
         "file":  "o202_BroniaFine__Maidan_Tbilisi.jpg",
-        "title":  "Maidan Tbilisi",
+        "title":  "0205 — Maidan Tbilisi",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2257,7 +2257,7 @@ window.GALLERY_DATA = [
     {
         "no":  206,
         "file":  "o203_BroniaFine__Olive_garden.jpg",
-        "title":  "Olive Garden",
+        "title":  "0206 — Olive Garden",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2268,7 +2268,7 @@ window.GALLERY_DATA = [
     {
         "no":  207,
         "file":  "o205_BroniaFine__Girl_in_Paris.jpg",
-        "title":  "Girl In Paris",
+        "title":  "0207 — Girl In Paris",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2279,7 +2279,7 @@ window.GALLERY_DATA = [
     {
         "no":  208,
         "file":  "o206_BroniaFine__windows.jpg",
-        "title":  "Windows",
+        "title":  "0208 — Windows",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2290,7 +2290,7 @@ window.GALLERY_DATA = [
     {
         "no":  209,
         "file":  "o207_BroniaFine__windows.jpg",
-        "title":  "Windows",
+        "title":  "0209 — Windows",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2301,7 +2301,7 @@ window.GALLERY_DATA = [
     {
         "no":  210,
         "file":  "o208_BroniaFine__winter.jpg",
-        "title":  "Winter",
+        "title":  "0210 — Winter",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2312,7 +2312,7 @@ window.GALLERY_DATA = [
     {
         "no":  211,
         "file":  "o210_BroniaFine__tel-aviv.jpg",
-        "title":  "Tel Aviv",
+        "title":  "0211 — Tel Aviv",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2323,7 +2323,7 @@ window.GALLERY_DATA = [
     {
         "no":  212,
         "file":  "o211_BroniaFine__mother_with_child.jpg",
-        "title":  "Mother With Child",
+        "title":  "0212 — Mother With Child",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2334,7 +2334,7 @@ window.GALLERY_DATA = [
     {
         "no":  213,
         "file":  "o212_BroniaFine__Vietnam.jpg",
-        "title":  "Vietnam",
+        "title":  "0213 — Vietnam",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2345,7 +2345,7 @@ window.GALLERY_DATA = [
     {
         "no":  214,
         "file":  "o213_BroniaFine_girl_in_leaves.jpg",
-        "title":  "Girl In Leaves",
+        "title":  "0214 — Girl In Leaves",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2356,7 +2356,7 @@ window.GALLERY_DATA = [
     {
         "no":  215,
         "file":  "o214_BroniaFine_Horses_on_a_moonlit_night.jpg",
-        "title":  "Horses On A Moonlit Night",
+        "title":  "0215 — Horses On A Moonlit Night",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2367,7 +2367,7 @@ window.GALLERY_DATA = [
     {
         "no":  216,
         "file":  "o215_BroniaFine_Lita.jpg",
-        "title":  "Lita",
+        "title":  "0216 — Lita",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2378,7 +2378,7 @@ window.GALLERY_DATA = [
     {
         "no":  217,
         "file":  "o216_BroniaFine_town.jpg",
-        "title":  "Town",
+        "title":  "0217 — Town",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2389,7 +2389,7 @@ window.GALLERY_DATA = [
     {
         "no":  218,
         "file":  "o217_BroniaFine_toreador.jpg",
-        "title":  "Toreador",
+        "title":  "0218 — Toreador",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2400,7 +2400,7 @@ window.GALLERY_DATA = [
     {
         "no":  219,
         "file":  "o218_BroniaFine_citi_in_bloom.jpg",
-        "title":  "Citi In Bloom",
+        "title":  "0219 — Citi In Bloom",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2411,7 +2411,7 @@ window.GALLERY_DATA = [
     {
         "no":  220,
         "file":  "o219_BroniaFine_Girl_with_a glass.jpg",
-        "title":  "Girl With A Glass",
+        "title":  "0220 — Girl With A Glass",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2422,7 +2422,7 @@ window.GALLERY_DATA = [
     {
         "no":  221,
         "file":  "o220_BroniaFine_Dana_in_Tailand.jpg",
-        "title":  "Dana In Tailand",
+        "title":  "0221 — Dana In Tailand",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2433,7 +2433,7 @@ window.GALLERY_DATA = [
     {
         "no":  222,
         "file":  "o221_BroniaFine_Old_dacha.jpg",
-        "title":  "Old Dacha",
+        "title":  "0222 — Old Dacha",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2444,7 +2444,7 @@ window.GALLERY_DATA = [
     {
         "no":  223,
         "file":  "o222_BroniaFine_GIRL.jpg",
-        "title":  "Girl",
+        "title":  "0223 — Girl",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2455,7 +2455,7 @@ window.GALLERY_DATA = [
     {
         "no":  224,
         "file":  "o223_BroniaFine_old_Singer.jpg",
-        "title":  "Old Singer",
+        "title":  "0224 — Old Singer",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2466,7 +2466,7 @@ window.GALLERY_DATA = [
     {
         "no":  225,
         "file":  "o224_BroniaFine_town.jpg",
-        "title":  "Town",
+        "title":  "0225 — Town",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2477,7 +2477,7 @@ window.GALLERY_DATA = [
     {
         "no":  226,
         "file":  "o225_BroniaFine_girl_with _an_umbrella.jpg",
-        "title":  "Girl With An Umbrella",
+        "title":  "0226 — Girl With An Umbrella",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2488,7 +2488,7 @@ window.GALLERY_DATA = [
     {
         "no":  227,
         "file":  "o226_BroniaFine_girl_with_hat.jpg",
-        "title":  "Girl With Hat",
+        "title":  "0227 — Girl With Hat",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2499,7 +2499,7 @@ window.GALLERY_DATA = [
     {
         "no":  228,
         "file":  "o227_BroniaFine_LINA.jpg",
-        "title":  "Lina",
+        "title":  "0228 — Lina",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2510,7 +2510,7 @@ window.GALLERY_DATA = [
     {
         "no":  229,
         "file":  "o228_BroniaFine_Holand.jpg",
-        "title":  "Holland",
+        "title":  "0229 — Holland",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2521,7 +2521,7 @@ window.GALLERY_DATA = [
     {
         "no":  230,
         "file":  "o229_BroniaFine_kichen.JPG",
-        "title":  "Kichen",
+        "title":  "0230 — Kichen",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2532,7 +2532,7 @@ window.GALLERY_DATA = [
     {
         "no":  231,
         "file":  "o230_BroniaFine_Japan.jpg",
-        "title":  "Japan",
+        "title":  "0231 — Japan",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2543,7 +2543,7 @@ window.GALLERY_DATA = [
     {
         "no":  232,
         "file":  "o231_BroniaFine_still_life.jpg",
-        "title":  "Still Life",
+        "title":  "0232 — Still Life",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2554,7 +2554,7 @@ window.GALLERY_DATA = [
     {
         "no":  233,
         "file":  "o232_BroniaFine_Afrika.JPG",
-        "title":  "Afrika",
+        "title":  "0233 — Afrika",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2565,7 +2565,7 @@ window.GALLERY_DATA = [
     {
         "no":  234,
         "file":  "o233_BroniaFine_still-life.jpg",
-        "title":  "Still Life",
+        "title":  "0234 — Still Life",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2576,7 +2576,7 @@ window.GALLERY_DATA = [
     {
         "no":  235,
         "file":  "o234_BroniaFine_gerl.jpg",
-        "title":  "Girl",
+        "title":  "0235 — Girl",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2587,7 +2587,7 @@ window.GALLERY_DATA = [
     {
         "no":  236,
         "file":  "o235_BroniaFine_old man.jpg",
-        "title":  "Old Man",
+        "title":  "0236 — Old Man",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2598,7 +2598,7 @@ window.GALLERY_DATA = [
     {
         "no":  237,
         "file":  "o236_BroniaFine_veatnam.jpg",
-        "title":  "Veatnam",
+        "title":  "0237 — Veatnam",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2609,7 +2609,7 @@ window.GALLERY_DATA = [
     {
         "no":  238,
         "file":  "o237_BroniaFine_windows.jpg",
-        "title":  "Windows",
+        "title":  "0238 — Windows",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2620,7 +2620,7 @@ window.GALLERY_DATA = [
     {
         "no":  239,
         "file":  "o238_BroniaFine_still-life_ pomegranates.jpg",
-        "title":  "Still Life Pomegranates",
+        "title":  "0239 — Still Life Pomegranates",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2631,7 +2631,7 @@ window.GALLERY_DATA = [
     {
         "no":  240,
         "file":  "o239_BroniaFine_dancers-gerles.jpg",
-        "title":  "Dancers Girles",
+        "title":  "0240 — Dancers Girles",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2642,7 +2642,7 @@ window.GALLERY_DATA = [
     {
         "no":  241,
         "file":  "o240_BroniaFine_still-life.jpg",
-        "title":  "Still Life",
+        "title":  "0241 — Still Life",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2653,7 +2653,7 @@ window.GALLERY_DATA = [
     {
         "no":  242,
         "file":  "o241_BroniaFine_outumn.jpg",
-        "title":  "Autumn",
+        "title":  "0242 — Autumn",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2664,7 +2664,7 @@ window.GALLERY_DATA = [
     {
         "no":  243,
         "file":  "o242_BroniaFine_still-life_ pomegranates.jpg",
-        "title":  "Still Life Pomegranates",
+        "title":  "0243 — Still Life Pomegranates",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2675,7 +2675,7 @@ window.GALLERY_DATA = [
     {
         "no":  244,
         "file":  "o243_BroniaFine_dance.jpg",
-        "title":  "Dance",
+        "title":  "0244 — Dance",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2686,7 +2686,7 @@ window.GALLERY_DATA = [
     {
         "no":  245,
         "file":  "o244_BroniaFine_Amsterdam.jpg",
-        "title":  "Amsterdam",
+        "title":  "0245 — Amsterdam",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2697,7 +2697,7 @@ window.GALLERY_DATA = [
     {
         "no":  246,
         "file":  "o245_BroniaFine_Girl.jpg",
-        "title":  "Girl",
+        "title":  "0246 — Girl",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2708,7 +2708,7 @@ window.GALLERY_DATA = [
     {
         "no":  247,
         "file":  "o246_BroniaFine_dance.jpg",
-        "title":  "Dance",
+        "title":  "0247 — Dance",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2719,7 +2719,7 @@ window.GALLERY_DATA = [
     {
         "no":  248,
         "file":  "o247_BroniaFine_dance.jpg",
-        "title":  "Dance",
+        "title":  "0248 — Dance",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2730,7 +2730,7 @@ window.GALLERY_DATA = [
     {
         "no":  249,
         "file":  "o248_BroniaFine_still_life.jpg",
-        "title":  "Still Life",
+        "title":  "0249 — Still Life",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2741,7 +2741,7 @@ window.GALLERY_DATA = [
     {
         "no":  250,
         "file":  "o249_BroniaFine_gerl_with tea.jpg",
-        "title":  "Girl With Tea",
+        "title":  "0250 — Girl With Tea",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2752,7 +2752,7 @@ window.GALLERY_DATA = [
     {
         "no":  251,
         "file":  "o250_BroniaFine_Afrika.jpg",
-        "title":  "Afrika",
+        "title":  "0251 — Afrika",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2763,7 +2763,7 @@ window.GALLERY_DATA = [
     {
         "no":  252,
         "file":  "o251_BroniaFine_Japanese_girl.jpg",
-        "title":  "Japanese Girl",
+        "title":  "0252 — Japanese Girl",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2774,7 +2774,7 @@ window.GALLERY_DATA = [
     {
         "no":  253,
         "file":  "o252_BroniaFine_old_men.jpg",
-        "title":  "Old Men",
+        "title":  "0253 — Old Men",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2785,7 +2785,7 @@ window.GALLERY_DATA = [
     {
         "no":  254,
         "file":  "o253_BroniaFine_girl_at_the dacha.jpg",
-        "title":  "Girl At The Dacha",
+        "title":  "0254 — Girl At The Dacha",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2796,7 +2796,7 @@ window.GALLERY_DATA = [
     {
         "no":  255,
         "file":  "o254_BroniaFine_gerl_whith_child.jpg",
-        "title":  "Girl With Child",
+        "title":  "0255 — Girl With Child",
         "year":  "",
         "size":  "100 × 100 cm",
         "medium":  "Oil on canvas",
@@ -2807,7 +2807,7 @@ window.GALLERY_DATA = [
     {
         "no":  256,
         "file":  "o256_BroniaFine_Dov.jpg",
-        "title":  "Dov",
+        "title":  "0256 — Dov",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2818,7 +2818,7 @@ window.GALLERY_DATA = [
     {
         "no":  257,
         "file":  "o257_BroniaFine_dancers.jpg",
-        "title":  "Dancers",
+        "title":  "0257 — Dancers",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2829,7 +2829,7 @@ window.GALLERY_DATA = [
     {
         "no":  258,
         "file":  "o258_BroniaFine_dacha.jpg",
-        "title":  "Dacha",
+        "title":  "0258 — Dacha",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2840,7 +2840,7 @@ window.GALLERY_DATA = [
     {
         "no":  259,
         "file":  "o259_BroniaFine_flowers.jpg",
-        "title":  "Flowers",
+        "title":  "0259 — Flowers",
         "year":  "",
         "size":  "50 × 70 cm",
         "medium":  "Oil on canvas",
@@ -2851,7 +2851,7 @@ window.GALLERY_DATA = [
     {
         "no":  260,
         "file":  "o260_BroniaFine_GIRL UNDER THE MOON.jpg",
-        "title":  "Girl Under the Moon",
+        "title":  "0260 — Girl Under the Moon",
         "year":  "",
         "size":  "",
         "medium":  "Oil on canvas",
@@ -2862,7 +2862,7 @@ window.GALLERY_DATA = [
     {
         "no":  261,
         "file":  "o261_BroniaFine_Drinken_Jerusalem.jpg",
-        "title":  "Drinken Jerusalem",
+        "title":  "0261 — Drinken Jerusalem",
         "year":  "",
         "size":  "",
         "medium":  "Oil on canvas",
