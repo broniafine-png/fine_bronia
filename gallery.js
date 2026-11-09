@@ -54,7 +54,7 @@ function showPainting(index) {
   img.alt = p.title || 'Painting';
   document.getElementById('viewerTitle').textContent = p.title || 'Untitled';
   document.getElementById('viewerDetails').innerHTML =
-    detail('Medium', p.medium) + detail('Size', p.size) + detail('Status', p.status);
+    detail('Medium', p.medium) + detail('Size', p.size) + detail('Location', p.status);
   viewer.showModal();
 }
 function move(delta) {
