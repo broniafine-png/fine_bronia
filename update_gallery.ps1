@@ -1,4 +1,4 @@
-$ErrorActionPreference = 'Stop'
+﻿$ErrorActionPreference = 'Stop'
 $root = Split-Path -Parent $MyInvocation.MyCommand.Path
 $xlsx = Join-Path $root 'paintings.xlsx'
 $excel = New-Object -ComObject Excel.Application
@@ -22,13 +22,13 @@ try {
       $items += [ordered]@{
         no = $sheet.Cells.Item($r,$headers['No.']).Value2
         file = $file
-        title = $sheet.Cells.Item($r,$headers['Title']).Text
+        title = if ($headers.ContainsKey('Display Title (planned)') -and -not [string]::IsNullOrWhiteSpace($sheet.Cells.Item($r,$headers['Display Title (planned)']).Text)) { $sheet.Cells.Item($r,$headers['Display Title (planned)']).Text -replace '^([0-9]{4}) ', '$1 — ' } else { $sheet.Cells.Item($r,$headers['Title']).Text }
         year = $sheet.Cells.Item($r,$headers['Year']).Text
         size = $sheet.Cells.Item($r,$headers['Size']).Text
         medium = $sheet.Cells.Item($r,$headers['Medium']).Text
         category = $sheet.Cells.Item($r,$headers['Category']).Text
         description = $sheet.Cells.Item($r,$headers['Description']).Text
-        status = $sheet.Cells.Item($r,$headers['Artwork Status']).Text
+        status = $sheet.Cells.Item($r,$headers['Location']).Text
       }
     }
     $json = $items | ConvertTo-Json -Depth 5

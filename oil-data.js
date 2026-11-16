@@ -1430,6 +1430,39 @@ window.GALLERY_DATA = [
         "status": "Home"
     },
     {
+        "no": 264,
+        "file": "o264_BroniaFine_The Mysterious Gaze.jpg",
+        "title": "0264 — The Mysterious Gaze",
+        "year": "2010",
+        "size": "50 × 40 cm",
+        "medium": "Oil on canvas",
+        "category": "Oil Paintings",
+        "description": "",
+        "status": "Home"
+    },
+    {
+        "no": 265,
+        "file": "o265_BroniaFine_The Girl in a Scarf.jpg",
+        "title": "0265 — The Girl in a Scarf",
+        "year": "2010",
+        "size": "50 × 40 cm",
+        "medium": "Oil on canvas",
+        "category": "Oil Paintings",
+        "description": "",
+        "status": "Home"
+    },
+    {
+        "no": 266,
+        "file": "o266_BroniaFine_A Strong Spirit.jpg",
+        "title": "0266 — A Strong Spirit",
+        "year": "2010",
+        "size": "50 × 40 cm",
+        "medium": "Oil on canvas",
+        "category": "Oil Paintings",
+        "description": "",
+        "status": "Home"
+    },
+    {
         "no": 131,
         "file": "o128_BroniaFine_Russan_summer.jpg",
         "title": "0131 — Russan Summer",
@@ -2880,5 +2913,16 @@ window.GALLERY_DATA = [
         "category": "Oil Paintings",
         "description": "",
         "status": "Tutian Tal"
+    },
+    {
+        "no": 263,
+        "file": "o263_BroniaFine_When Autumn Sings-1.jpg",
+        "title": "0263 — When Autumn Sings",
+        "year": "2026",
+        "size": "50 × 70 cm",
+        "medium": "Oil on canvas",
+        "category": "Oil Paintings",
+        "description": "",
+        "status": "Home"
     }
 ];
